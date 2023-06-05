@@ -8,9 +8,9 @@ in this website, I will be summarizing and publishing my daily readings in many 
 
 ## Code 301 - Intermediate Software Development
 
-## Code 401 - Advanced Software Development
+[## Code 401 - Advanced Software Development](#my-table)
 
-### table of contents for Code 401
+### table of contents for Code 401 {#my-table}
 
 | class   | topics                                                 |
 | ------- | ------------------------------------------------------ |
