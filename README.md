@@ -18,5 +18,5 @@ in this website, I will be summarizing and publishing my daily readings in many 
 | class 1b | [Express js , TDD , NPM ,CI/CD](./class-1b/TDD-CICD.md) |
 | DSA      | [BigO](./DSA/BigO/BigO.md)                              |
 | class 2  | [Express REST API](./class-2/REST-API.md)               |
-|          |                                                         |
+| DSA      | Linkedlist (not done yet)                               |
 | Class 03 | [Data Modeling](./class-3/Data-Modeling.md)             |
