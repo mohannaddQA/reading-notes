@@ -20,3 +20,4 @@ in this website, I will be summarizing and publishing my daily readings in many 
 | class 2  | [Express REST API](./class-2/REST-API.md)               |
 | DSA      | Linkedlist (not done yet)                               |
 | Class 03 | [Data Modeling](./class-3/Data-Modeling.md)             |
+| Class 06 | [authentication](./class-6/Authentication.md)           |
