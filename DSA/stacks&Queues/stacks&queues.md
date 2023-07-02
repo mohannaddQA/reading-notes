@@ -40,7 +40,8 @@ Stacks can be implemented using <b>arrays<b> or <b>linked lists<b>.
 
 ### Visualization:
 
-[!stack](./stack1.png)
-Remember:
+![stack](./stack1.png)
+
+### Remember:
 
 The last element added is the first one to be removed (Last In, First Out).
