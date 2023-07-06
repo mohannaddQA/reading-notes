@@ -25,3 +25,4 @@ in this website, I will be summarizing and publishing my daily readings in many 
 | Class 08 | [Access Control (ACL)](./class-8/Access-Control.md)        |
 | DSA      | [Stacks & queues](./DSA/stacks&Queues/stacks&queues.md)    |
 | class 11 | [event driven apps](./class-11/EventDrivenApplications.md) |
+| class 12 | [socket.io](./class-12/Socketio.md)                        |
