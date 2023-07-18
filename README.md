@@ -30,3 +30,4 @@ in this website, I will be summarizing and publishing my daily readings in many 
 | class 14 | [event driven arcitecture](./class-14/event-driven-arcitecture.md) |
 | DSA      | [trees](./DSA/tree/tree.md)                                        |
 | class-16 | [aws](./class-16/aws.md)                                           |
+| class-17 | [aws-lambda-s3](./class-17/awslambda.md)                           |
