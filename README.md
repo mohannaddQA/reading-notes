@@ -31,3 +31,4 @@ in this website, I will be summarizing and publishing my daily readings in many 
 | DSA      | [trees](./DSA/tree/tree.md)                                        |
 | class-16 | [aws](./class-16/aws.md)                                           |
 | class-17 | [aws-lambda-s3](./class-17/awslambda.md)                           |
+| class-18 | [aws-events](./class-18/new.md)                                    |
