@@ -32,3 +32,4 @@ in this website, I will be summarizing and publishing my daily readings in many 
 | class-16 | [aws](./class-16/aws.md)                                           |
 | class-17 | [aws-lambda-s3](./class-17/awslambda.md)                           |
 | class-18 | [aws-events](./class-18/new.md)                                    |
+| class-19 | [ AWS - API, Dynamo, and Lambda](./class-19/readme.md)             |
