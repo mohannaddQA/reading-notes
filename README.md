@@ -35,3 +35,4 @@ in this website, I will be summarizing and publishing my daily readings in many 
 | class-19 | [ AWS - API, Dynamo, and Lambda](./class-19/readme.md)             |
 | class-26 | [ react refresher ](./class-26/readme.md)                          |
 | class-27 | [ usestate hook ](./class-27/readme.md)                            |
+| class-28 | [ useeffect hook ](./class-28/readme.md)                           |
