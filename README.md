@@ -36,3 +36,4 @@ in this website, I will be summarizing and publishing my daily readings in many 
 | class-26 | [ react refresher ](./class-26/readme.md)                          |
 | class-27 | [ usestate hook ](./class-27/readme.md)                            |
 | class-28 | [ useeffect hook ](./class-28/readme.md)                           |
+| class-29 | [ Advanced State with Reducers ](./class-29/readme.md)             |
