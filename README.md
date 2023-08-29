@@ -39,4 +39,4 @@ in this website, I will be summarizing and publishing my daily readings in many 
 | class-29 | [ Advanced State with Reducers ](./class-29/readme.md)             |
 | class-30 | [ hash tables ](./DSA/hashTables/hashTables.md)                    |
 | class-31 | [ Context API ](./class-31/readme.md)                              |
-| class-31 | [ Context API - Behaviors](./class-31/readme.md)                   |
+| class-32 | [ Context API - Behaviors](./class-31/readme.md)                   |
