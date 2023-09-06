@@ -42,3 +42,4 @@ in this website, I will be summarizing and publishing my daily readings in many 
 | class-32 | [ Context API - Behaviors](./class-31/readme.md)                   |
 | class-33 | [ `<Login />` and `<Auth />`](./class-33/readme.md)                |
 | class-34 | [ API Integration](./class-34/readme.md)                           |
+| class-36 | [ redux](./class-36/readme.md)                                     |
