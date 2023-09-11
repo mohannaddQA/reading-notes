@@ -44,3 +44,4 @@ in this website, I will be summarizing and publishing my daily readings in many 
 | class-34     | [API Integration](./class-34/readme.md)                            |
 | class-35 DSA | [graph](./DSA/graph/readme.md)                                     |
 | class-36     | [redux](./class-36/readme.md)                                      |
+| class-37     | [Redux - Combined Reducers ](./class-37/readme.md)                 |
