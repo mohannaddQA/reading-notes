@@ -1,7 +1,5 @@
 # Readings: Redux - Additional Topics
 
-## Reading
-
 ### Redux Toolkit (RTK)
 
 - **What concerns are addressed by Redux Toolkit?**
